@@ -8,5 +8,6 @@ def calculate_average(numbers):
 values = [10, 20, 30, 40]
 print("The average is:", calculate_average(values))
 
+#Isaac
 
 
