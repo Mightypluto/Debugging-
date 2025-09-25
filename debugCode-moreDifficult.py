@@ -8,3 +8,5 @@ def calculate_average(numbers):
 
 values = [10, 20, 30, 40]
 print("The average is:", calculate_average(values))
+
+#Lets add more numbers and make the user tell witch ones they want
