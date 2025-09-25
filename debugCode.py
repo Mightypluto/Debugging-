@@ -4,8 +4,9 @@ def find_max(numbers):
     for num in numbers:
         if num >= max_num:
             max_num = num
-    return max_Num
+    return max_num
 
 
 values = [-3, -7, -1, -12]
 print("The max value is:", find_max(values))
+
